@@ -2069,7 +2069,7 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #191919;
+  background-color: #77776b;
   border-color: #191919; }
   .btn-dark:hover {
     color: #fff;
@@ -17860,6 +17860,7 @@ button:focus {
 
 .social-bg-dark a {
   border: none;
+  text-align: center;
   color: rgba(255, 255, 255, 0.6);
   background-color: rgba(255, 255, 255, 0.1); }
   .social-bg-dark a:hover {
