@@ -1,0 +1,23 @@
+{
+  "name": "orderstack",
+  "version": "1.0.0",
+  "description": "This is the code for the official OrderStack website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jealiasgar/OrderStack.git"
+  },
+  "author": "Ali and Huzefa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jealiasgar/OrderStack/issues"
+  },
+  "homepage": "https://github.com/jealiasgar/OrderStack#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "live-server": "^1.2.1"
+  }
+}
