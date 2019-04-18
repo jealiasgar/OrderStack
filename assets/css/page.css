@@ -1894,7 +1894,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #50a1ff;
+  background-color: #000000;
   border-color: #50a1ff; }
   .btn-primary:hover {
     color: #fff;
@@ -20968,7 +20968,10 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
   border-color: rgba(255, 255, 255, 0.15) !important; }
 
 .bg-gray {
-  background-color: #d2d6d6; }
+  background-color: #c0c0c0; }
+
+  .bg-yellow {
+    background-color: #fed150; }
 
 .bg-light-gray {
   background-color: #d0e9eb
