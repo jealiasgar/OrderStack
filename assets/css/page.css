@@ -20683,8 +20683,8 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
   -webkit-background-size: cover;
           background-size: cover;
   background-repeat: no-repeat;
-  padding-top: 7rem;
-  padding-bottom: 0rem; }
+  padding-top: 4rem;
+  padding-bottom: 4rem; }
   .section > .container,
   .section > .container-fluid,
   .section > .container-wide {
@@ -20969,6 +20969,10 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
 
 .bg-gray {
   background-color: #d2d6d6; }
+
+.bg-light-gray {
+  background-color: #d0e9eb
+}
 
 .bg-pale-primary {
   background-color: #eef4fc !important; }
