@@ -20683,8 +20683,8 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
   -webkit-background-size: cover;
           background-size: cover;
   background-repeat: no-repeat;
-  padding-top: 7rem;
-  padding-bottom: 7rem; }
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
   .section > .container,
   .section > .container-fluid,
   .section > .container-wide {
@@ -20692,8 +20692,8 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
     height: 100%; }
   @media (max-width: 991.98px) {
     .section {
-      padding-top: 5rem;
-      padding-bottom: 5rem; } }
+      padding-top: 2rem;
+      padding-bottom: 2rem; } }
 
 .section-header {
   text-align: center;
