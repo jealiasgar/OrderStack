@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://artlibre.org/licence/lal" />
       </cc:Work>
@@ -96,7 +96,7 @@
            x="97.14286"
            y="253.94826"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Microsoft Himalaya';-inkscape-font-specification:'Microsoft Himalaya'" /></flowRegion><flowPara
-         id="flowPara3719" /></flowRoot>    <flowRoot
+         id="flowPara3719"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3774"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -108,7 +108,7 @@
            height="116.42857"
            x="217.14285"
            y="349.66254" /></flowRegion><flowPara
-         id="flowPara3780" /></flowRoot>    <flowRoot
+         id="flowPara3780"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3782"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -120,7 +120,7 @@
            height="639.28571"
            x="107.14286"
            y="171.8054" /></flowRegion><flowPara
-         id="flowPara3788" /></flowRoot>    <flowRoot
+         id="flowPara3788"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3957"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -131,7 +131,7 @@
            height="220"
            x="70"
            y="33.700806" /></flowRegion><flowPara
-         id="flowPara3963" /></flowRoot>    <text
+         id="flowPara3963"></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.08944511px;line-height:1.25;font-family:Garamond;-inkscape-font-specification:Garamond;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24051502"
        x="39.465878"
@@ -145,16 +145,16 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.08944511px;font-family:Garamond;-inkscape-font-specification:Garamond;stroke-width:0.24051502;fill:#ffffff">OrderStack</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.6206007px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24051502"
-       x="42.214649"
-       y="144.62669"
+       style="font-style:normal;font-weight:normal;font-size:10.95258141px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27381453"
+       x="41.222645"
+       y="148.50237"
        id="text3792-5"
-       transform="scale(0.98330824,1.0169751)"><tspan
+       transform="scale(1.0057816,0.99425163)"><tspan
          sodipodi:role="line"
          id="tspan3790-2"
-         x="42.214649"
-         y="144.62669"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05510807px;font-family:Garamond;-inkscape-font-specification:Garamond;stroke-width:0.24051502;fill:#ffffff">SOFTWARE AT YOUR SERVICE</tspan></text>
+         x="41.222645"
+         y="148.50237"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03189373px;font-family:NSimSun;-inkscape-font-specification:NSimSun;stroke-width:0.27381453;fill:#ffffff">SOFTWARE AT YOUR SERVICE</tspan></text>
     <g
        id="g3851-4"
        transform="matrix(0.05699242,2.6946666e-4,-2.744501e-4,0.05595758,7.7358213,118.5781)">
@@ -309,7 +309,7 @@
            height="210"
            x="70"
            y="53.700806" /></flowRegion><flowPara
-         id="flowPara4061" /></flowRoot>    <flowRoot
+         id="flowPara4061"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4962"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -320,7 +320,7 @@
            height="150"
            x="20"
            y="93.700806" /></flowRegion><flowPara
-         id="flowPara4968" /></flowRoot>    <flowRoot
+         id="flowPara4968"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4970"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -331,5 +331,5 @@
            height="220"
            x="-70"
            y="23.700806" /></flowRegion><flowPara
-         id="flowPara4976" /></flowRoot>  </g>
+         id="flowPara4976"></flowPara></flowRoot>  </g>
 </svg>
