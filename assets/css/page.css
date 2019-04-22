@@ -1894,7 +1894,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #000000;
+  background-color: #50a1ff;
   border-color: #50a1ff; }
   .btn-primary:hover {
     color: #fff;
@@ -20968,14 +20968,7 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
   border-color: rgba(255, 255, 255, 0.15) !important; }
 
 .bg-gray {
-  background-color: #c0c0c0; }
-
-  .bg-yellow {
-    background-color: #fed150; }
-
-.bg-light-gray {
-  background-color: #d0e9eb
-}
+  background-color: #fbfbfb; }
 
 .bg-pale-primary {
   background-color: #eef4fc !important; }
@@ -21721,8 +21714,7 @@ a.text-lightest:hover, a.text-lightest:focus {
   font-size: 1.05469rem !important; }
 
 .lead-2 {
-  font-size: 1.17188rem !important;
-  text-align: justify;
+  font-size: 1.17188rem !important;  
  }
 
 .lead-3 {
